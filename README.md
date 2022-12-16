@@ -1,4 +1,4 @@
-# TODO-TS
+# InControl
 
 - A simple financial manager app made using ReactJs, Typescript & Firebase.
 
