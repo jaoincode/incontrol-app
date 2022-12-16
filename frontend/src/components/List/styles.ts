@@ -44,6 +44,14 @@ export default styled.div<Props>`
     }
   }
 
+  .deleteBtn {
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    background: transparent;
+    color: ${(props) => props.theme.colors.primaryTextColor};
+  }
+
   @media (max-width: 800px) {
     > .item {
       p,

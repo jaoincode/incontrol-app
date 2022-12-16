@@ -9,6 +9,8 @@ import { useAuthState } from "react-firebase-hooks/auth";
 import { addDoc, collection } from "firebase/firestore";
 import { auth, db } from "../../config/Firebase";
 
+import { useDispatch } from "react-redux";
+
 import { useNavigate } from "react-router-dom";
 
 import X from "../../assets/close.png";
