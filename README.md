@@ -9,7 +9,6 @@ can add new money entries and new money spent, and see how much you can still sp
 
 - You need to have [NodeJs](https://nodejs.org/en/) installed.
 - You need to create a [Firebase](https://firebase.google.com/) app and add the Firebase config in .env file, following the .env.example, and set your Firestore and Authentication on firebase.
-- On .env, you need to set a password on VITE_CREATE_PASSWORD to access the create new post page (/post/create).
 
 To clone this project write in the console:
 
