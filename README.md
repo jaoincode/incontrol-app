@@ -1,6 +1,6 @@
 # InControl
 
-Made with ReactJs, Typescript & Firebase, InControl is a webapp that facilities you to manage your expenses and entries. You
+Made with ReactJs, Typescript & Firebase, InControl is a micro webapp that facilities you to manage your expenses and entries. You
 can add new money entries and new money spent, and see how much you can still spend according to your entries.
 
 <img src="https://user-images.githubusercontent.com/92704272/209273054-e93b3604-d850-4060-931a-7799aa68e3cb.png" />
@@ -19,7 +19,8 @@ git clone https://github.com/jaoincode/incontrol-app.git
 And if you successfully cloned and all the requirements open the frontend file and run in the console:
 
 ```console
-npm run dev
+npm install //to install all the packages, and
+npm run dev //to run this app on development mode
 ```
 
 ## Usage
